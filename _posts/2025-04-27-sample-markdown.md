@@ -13,7 +13,46 @@ author: Niluzz
 {: .box-success}
 A skin Iumina para Ragnarok Online é uma interface (UI) personalizada que traz um visual moderno, limpo e elegante para o jogo. Ela modifica elementos como barras de HP/SP, janelas de inventário, habilidades, lojas, entre outros, com cores suaves, ícones minimalistas e melhor organização das informações, deixando a experiência de jogo mais agradável e atualizada sem perder a essência clássica do Ragnarok.
 
-**Here is some bold text**
+**Segue a evolução de todas as atualizações realizada nesta skin**
+
+### Changelog
+
+{: .box-note}
+**Atualizações:** 
+Adicionado 05/01/21
+	•	Nova identidade visual com abas arredondadas
+	•	Nova aba do armazém
+	•	Novo layout da loja rops
+Adicionado 12/01/21
+	•	Novo ícone loja de compras
+	•	Novo ícone de quest
+	•	Novos ícones de chat aberto e com senha
+	•	Novo layout chat
+Adicionado 18/01/21
+	•	Novos ícones informativos na aba "lista de quests"
+	•	Barra de atributos personagem em pt-br
+	•	Barra de atributos homúnculos em pt-br
+	•	Novo ícone de mudança de level
+Adicionado 19/01/21
+	•	Melhorias visuais na aba "lista de quests"
+	•	Melhorias visuais na aba "equipamentos"
+Adicionado 12/02/21 
+	•	Interface modificada na aba de nova msg e resposta do Rodex
+	•	Varios ajustes na interface
+Adicionado 24/02/2021 v1.8
+	•	Adicionado novos botões na aba Lapine
+Adicionado 17/07/2021 v1.9
+	•	Adicionado novo botão ao expandir opções na nova UI
+Adicionado 04/12/2021 v2.0
+	•	Adicionado melhorias na interface Agência de Aventura
+	•	Adicionado novos ícones de status de grupo online,offline
+Adicionado 16/10/2022 v2.1
+	•	Adicionado novos botões na aba de batalhas campais
+	•	Adicionado novo botão de configuração do game
+	•	Adicionado novos botões na aba de navegação
+	•	Adicionado nova aba de rops na guia do armazén
+Adicionado 19/10/2022 v2.2
+	•	Refinamentos visuais, ícones armazém e guia inferior aba navegação
 
 ## Here is a secondary heading
 

@@ -18,8 +18,7 @@ A skin Iumina para Ragnarok Online é uma interface (UI) personalizada que traz 
 ### Changelog
 
 {: .box-note}
-**Atualizações:** 
-Adicionado 05/01/21
+**Atualizações:** Adicionado 05/01/21
 	•	Nova identidade visual com abas arredondadas
 	•	Nova aba do armazém
 	•	Novo layout da loja rops

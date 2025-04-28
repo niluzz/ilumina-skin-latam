@@ -1,10 +1,10 @@
 ---
 layout: post
-title: iLuminaX
-subtitle: Atualizada para o Latam!
+title: iLumina
+subtitle: Atualizada para o Latam
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [SKIN PERSONALIZADA]
+tags: [SKIN RAGNAROK]
 comments: true
 mathjax: true
 author: Niluzz

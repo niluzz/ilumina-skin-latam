@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sobre Niluzz
+title: Niluzz
 subtitle: Jogador old times
 ---
 
 ### História
 
-Jogador dos tempos antigos no sevidor Loki, Player ativa da guild mais sinistra do bRO, JFA - Justice for All! Época Nostalgica das guilds: Final Heaven,Anbu,DreamTeam,Void Seeks,NoMercy,RagnaLoucos, Háaa que tempo incrível.
+Jogador raiz do servidor Loki, membro ativo da lendária guilda JFA – Justice for All! Vivenciei a era de ouro das guilds: Final Heaven, Anbu, Dream Team, Void Seeks, No Mercy, RagnaLoucos... Ah, que tempos inesquecíveis!

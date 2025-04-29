@@ -214,6 +214,13 @@ footer-hover-col: "#0085A1"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+<  script   src  =  "  https://utteranc.es/client.js  " 
+         repo  =  "  [niluzz/ilumina-skin-latam]  " 
+         issue-term  =  "  pathname  " 
+         theme  =  "  github-light  " 
+         crossorigin  =  "  anonymous  " 
+         async  > 
+ </  script  > 
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection.

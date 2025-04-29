@@ -1,7 +1,7 @@
 # User interface text and labels
 
 # Brazilian Portuguese (default)
-pt-BR:
+pt-BR: &DEFAULT_PT_BR
   comments_label             : "Deixe um comentário"
   comments_title             : "Comentários"
   comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"

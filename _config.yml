@@ -38,8 +38,6 @@ avatar: "/assets/img/avatar-icon.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
-<button onclick="toggleDarkMode()">🌙 Alternar modo noturno</button>
-
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
@@ -305,17 +303,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-<script>
-  function toggleDarkMode() {
-    document.body.classList.toggle("dark-mode");
-    localStorage.setItem("theme", document.body.classList.contains("dark-mode") ? "dark" : "light");
-  }
-
-  // Ativar automaticamente se o usuário já escolheu antes
-  window.onload = function() {
-    if (localStorage.getItem("theme") === "dark") {
-      document.body.classList.add("dark-mode");
-    }
-  }
-</script>
 

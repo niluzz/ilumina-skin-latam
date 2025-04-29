@@ -15,6 +15,8 @@ title: Início
 # Idioma padrão do conteúdo
 language: "pt-BR"
 locale: "pt-BR"
+plugins:
+  - jekyll-multiple-languages
 
 # Your name to show in the footer
 author: Niluzz

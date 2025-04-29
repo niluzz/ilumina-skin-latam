@@ -13,8 +13,6 @@
 title: Início
 
 # Idioma padrão do conteúdo
-language: "pt-BR"
-locale: "pt-BR"
 plugins:
   - jekyll-multiple-languages
 

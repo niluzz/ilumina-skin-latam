@@ -12,10 +12,6 @@
 # Name of website
 title: Início
 
-# Idioma padrão do conteúdo
-plugins:
-  - jekyll-multiple-languages
-
 # Your name to show in the footer
 author: Niluzz
 
@@ -304,6 +300,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-multiple-languages
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

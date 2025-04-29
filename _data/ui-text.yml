@@ -115,7 +115,7 @@ pt-BR:
   comment_btn_submitted      : "Enviado"
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
   comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
-
+  read_more                  : "Leia mais"
 # Italian
 # -------
 it: &DEFAULT_IT

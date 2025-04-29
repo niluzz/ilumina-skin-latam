@@ -102,7 +102,7 @@ pt: &DEFAULT_PT
 pt-PT:
   <<: *DEFAULT_PT
 # Brazilian Portuguese
-pt-BR: &DEFAULT_PT_BR
+pt-BR:
   comments_label             : "Deixe um comentário"
   comments_title             :
   comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"
@@ -115,8 +115,6 @@ pt-BR: &DEFAULT_PT_BR
   comment_btn_submitted      : "Enviado"
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
   comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
-pt-PT:
-  <<: *DEFAULT_PT_BR
 
 # Italian
 # -------

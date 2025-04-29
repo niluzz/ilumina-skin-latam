@@ -21,9 +21,10 @@ author: Niluzz
 
 navbar-links:
   AUTOR: "aboutme"
-  #Resources:
- #   - Beautiful Jekyll: "https://beautifuljekyll.com"
- #   - Learn markdown: "https://www.markdowntutorial.com/"
+  LINKS:
+    - bROwiki: "https://browiki.org/wiki/P%C3%A1gina_principal"
+    - Simulador de Atributos : "https://turugrura.github.io/tong-calc-ro-host/#/"
+    - Calculadora Habilidades : "https://www.divine-pride.net/tools/skilltree"
   #Author's home: "https://deanattali.com"
 
 ################

@@ -101,7 +101,7 @@ pt: &DEFAULT_PT
   comment_error_msg          : "Lamento, ocorreu um erro na sua submissão. Por favor verifique se todos os campos obrigatórios estão corretamente preenchidos e tente novamente."
 pt-PT:
   <<: *DEFAULT_PT
- Brazilian Portuguese
+# Brazilian Portuguese
 pt-BR:
   comments_label             : "Deixe um comentário"
   comments_title             : "Comentários"

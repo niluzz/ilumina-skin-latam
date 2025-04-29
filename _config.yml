@@ -9,6 +9,10 @@
 # --- Required options --- #
 ############################
 
+# Configuração de idiomas
+languages: ["pt-BR", "en"]  # pt-BR primeiro = idioma padrão
+default_lang: "pt-BR"
+
 # Name of website
 title: Início
 

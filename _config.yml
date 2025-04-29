@@ -261,7 +261,10 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
+
 timezone: "America/Sao_Paulo"
+language: "pt-BR"
+locale: "pt-BR"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

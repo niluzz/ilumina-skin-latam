@@ -1,24 +1,6 @@
 # User interface text and labels
 
-# Brazilian Portuguese (default)
-pt-BR: &DEFAULT_PT_BR
-  comments_label             : "Deixe um comentário"
-  comments_title             : "Comentários"
-  comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"
-  comment_form_comment_label : "Comentário"
-  comment_form_md_info       : "Markdown é suportado."
-  comment_form_name_label    : "Nome"
-  comment_form_email_label   : "Email"
-  comment_form_website_label : "Site (opcional)"
-  comment_btn_submit         : "Enviar Comentário"
-  comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
-  comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
-  read_more                  : "Leia mais"
-pt-PT:
-  <<: *DEFAULT_PT_BR
-
-# English (secundary)
+# English (default)
 # -----------------
 en: &DEFAULT_EN
   comments_label             : "Leave a comment"
@@ -119,6 +101,22 @@ pt: &DEFAULT_PT
   comment_error_msg          : "Lamento, ocorreu um erro na sua submissão. Por favor verifique se todos os campos obrigatórios estão corretamente preenchidos e tente novamente."
 pt-PT:
   <<: *DEFAULT_PT
+# Brazilian Portuguese
+pt-BR: &DEFAULT_PT_BR
+  comments_label             : "Deixe um comentário"
+  comments_title             :
+  comment_form_info          : "Seu email não será publicado. Os campos obrigatórios estão marcados"
+  comment_form_comment_label : "Comentário"
+  comment_form_md_info       : "Markdown é suportado."
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Email"
+  comment_form_website_label : "Site (opcional)"
+  comment_btn_submit         : "Enviar Comentário"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
+  comment_error_msg          : "Desculpe, ocorreu um erro no envio. Por favor verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
+pt-PT:
+  <<: *DEFAULT_PT_BR
 
 # Italian
 # -------

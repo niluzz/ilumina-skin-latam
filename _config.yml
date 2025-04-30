@@ -24,10 +24,13 @@ navbar-links:
   LINKS:
     - bROwiki: 
     url: "https://browiki.org/wiki/P%C3%A1gina_principal"
+    external: true
     - Simulador de Atributos : 
     url: "https://turugrura.github.io/tong-calc-ro-host/#/"
+    external: true
     - Calculadora Habilidades : 
     url: "https://www.divine-pride.net/tools/skilltree"
+    external: true
   Doação: "https://niluzz.github.io/ilumina-skin-latam/doar/"
 
 ################

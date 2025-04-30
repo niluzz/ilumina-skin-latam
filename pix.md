@@ -1,9 +1,13 @@
-## 💖 Apoie este projeto
+---
+layout: default
+title: Apoie este projeto
+---
 
-Se este projeto te ajudou ou achou útil de alguma forma, considere apoiar com uma doação.  
-Qualquer valor já faz a diferença e ajuda a manter o trabalho ativo!
+# 💖 Apoie o Ilumina Skin LATAM
 
-**📲 Chave Pix:** `niluzz@gmail.com`  
-📌 Basta copiar a chave e colar no seu app bancário para doar.
+Se este projeto foi útil para você, considere apoiar com uma doação.  
+Qualquer valor já ajuda a manter e melhorar o projeto!
+
+**📲 Chave Pix:** `niluzz@gmail.com`
 
 Muito obrigado pelo apoio! 🙏

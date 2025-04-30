@@ -12,23 +12,24 @@
 
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
-      {% for link in site.navbar-links %}
-        {% if link.dropdown %}
+      {%- for link in site.navbar-links -%}
+        {%- if link[1].first %}
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.name }}</a>
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              {% for item in link.dropdown %}
-                <a class="dropdown-item" href="{{ item.url }}" {% if item.external %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ item.name }}</a>
-              {% endfor %}
+              {%- for childlink in link[1] -%}
+                {%- for linkparts in childlink %}
+                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                {%- endfor -%}
+              {%- endfor %}
             </div>
           </li>
         {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{ link.url | relative_url }}" {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.name }}</a>
+            <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
           </li>
-        {% endif %}
-      {% endfor %}
-      
+        {%- endif -%}
+      {%- endfor -%}
       {% if site.post_search %}
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -36,7 +37,7 @@
             <span id="nav-search-text">Search</span>
           </a>
         </li>
-      {% endif %}
+      {%- endif -%}
     </ul>
   </div>
 
@@ -55,6 +56,7 @@
       </div>
     </div>
   {% endif %}
+
 </nav>
 
 {% include search.html %}

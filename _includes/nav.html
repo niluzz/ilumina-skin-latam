@@ -18,10 +18,10 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                {%- endfor -%}
-              {%- endfor %}
+  {%- for linkparts in childlink %}
+    <a class="dropdown-item" href="{{ linkparts[1] }}" target="_blank" rel="noopener noreferrer">{{ linkparts[0] }}</a>
+  {%- endfor -%}
+{%- endfor %}
             </div>
           </li>
         {% else %}

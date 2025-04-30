@@ -3,7 +3,7 @@ layout: default
 title: Apoie este projeto
 ---
 
-# 💖 Apoie o Ilumina Skin LATAM
+# 💖 Apoie este projeto
 
 Se este projeto foi útil para você, considere apoiar com uma doação.  
 Qualquer valor já ajuda a manter e melhorar o projeto!

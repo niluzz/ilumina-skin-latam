@@ -22,12 +22,9 @@ author: Niluzz
 navbar-links:
   AUTOR: "aboutme"
   LINKS:
-    - bROwiki: 
-    url: "https://browiki.org/wiki/P%C3%A1gina_principal"
-    - Simulador de Atributos : 
-    url: "https://turugrura.github.io/tong-calc-ro-host/#/" 
-    - Calculadora Habilidades : 
-    url: "https://www.divine-pride.net/tools/skilltree"
+    - bROwiki: "https://browiki.org/wiki/P%C3%A1gina_principal"
+    - Simulador de Atributos : "https://turugrura.github.io/tong-calc-ro-host/#/" 
+    - Calculadora Habilidades :  "https://www.divine-pride.net/tools/skilltree"
   Doação: "https://niluzz.github.io/ilumina-skin-latam/doar/"
 
 ################

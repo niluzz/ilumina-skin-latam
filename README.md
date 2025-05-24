@@ -10,8 +10,7 @@ Skin personalizada para o cliente do Ragnarok Online, adaptada para a comunidade
 
 ## 📷 Pré-visualização
 
-![Tela de Login](assets/images/login.png)
-![Interface de Jogo](assets/images/game_interface.png)
+![ilumina](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina.png)
 
 ## 🚀 Instalação
 

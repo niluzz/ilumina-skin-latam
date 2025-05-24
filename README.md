@@ -1,4 +1,4 @@
-# Ilumina Skin LATAM
+# ILUMINA SKIN LATAM/BRO
 
 Skin personalizada para o cliente do Ragnarok Online, adaptada para a comunidade LATAM.
 

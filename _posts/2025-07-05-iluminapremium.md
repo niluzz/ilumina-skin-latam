@@ -14,8 +14,11 @@ comments: true
 A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completamente a interface do seu jogo. Com um design sofisticado, minimalista e detalhadamente repaginado, ela oferece uma nova experiência visual sem abrir mão da essência clássica do Ragnarok.
 
 🖌️ Interface remodelada com janelas mais organizadas, ícones redesenhados e uma paleta de cores harmônica
+
 🚀 Performance visual otimizada, com foco em clareza, fluidez e modernidade
+
 🛠️ Atualizações garantidas e suporte contínuo para manter sua experiência sempre atual
+
 💎 Acesso exclusivo: apenas para compradores da versão premium, com atenção personalizada e melhorias constantes
 
 **Segue a evolução de todas as atualizações realizada nesta skin**
@@ -58,6 +61,7 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 
 
 ![Ilumina](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina-hotmart.png)
+![Ilumina](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina-descritivo.png)
 
 ### Diretório para instalação
 

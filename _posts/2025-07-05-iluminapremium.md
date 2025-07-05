@@ -61,7 +61,9 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 
 
 ![Ilumina](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina-hotmart.png)
-![Ilumina-descritivo](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina-descritivo.png)
+
+##Algumas das Novidades
+![Ilumina](https://github.com/niluzz/ilumina-skin-latam/raw/main/assets/img/ilumina-descritivo.png)
 
 ### Diretório para instalação
 

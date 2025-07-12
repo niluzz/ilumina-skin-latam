@@ -35,9 +35,9 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 
 - Adicionado novo botão para expansão de opções na nova interface (UI)
 
-- Melhorias na interface da Agência de Aventura.
+- Melhorias na interface da Agência de Aventura / Homúnculo
 
-- Novos ícones de status para grupos (online e offline).
+- Novos ícones de status para grupos (online e offline)
 
 - Realizado melhorias visuais compatíveis com o LATAM
 
@@ -54,6 +54,8 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 - Nova barra de Habilidades
 
 - Novos botões
+
+- Refinamentos na aba de chat, aberto e fechado
 
 
 

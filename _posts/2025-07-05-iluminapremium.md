@@ -70,7 +70,7 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 **LATAM:** C:\Gravity\Ragnarok\skin\
 
 
-## Link Download [PAGO]
+## Link Download
 
 [iLumina Premium v3.0 - LATAM](https://go.hotmart.com/K100657487C)
 

@@ -71,13 +71,15 @@ A Ilumina Premium é uma skin exclusiva desenvolvida para transformar completame
 
 ### Compradores
 
+> 💬 **Suporte e Comunidade**  
+>  
+> Se você adquiriu a **Skin Ilumina Premium**, saiba que pode contar com suporte direto!  
+> Em caso de dúvidas, sugestões ou qualquer dificuldade, entre em contato comigo via **Discord**.  
+>  
+> 🎮 Ao entrar em contato, você será adicionado à **comunidade oficial da Skin Ilumina Premium**, onde compartilhamos atualizações, dicas de uso, personalizações e novidades exclusivas.  
+>  
 {: .box-note}
-**💬 Suporte e Comunidade
 
-Se você adquiriu a Skin Ilumina Premium, saiba que pode contar com suporte direto!
-Em caso de dúvidas, sugestões ou qualquer dificuldade, entre em contato comigo via Discord NiLuzz#0249.
-
-🎮 Ao entrar em contato, você será adicionado à comunidade oficial da Skin Ilumina Premium, onde compartilhamos atualizações, dicas de uso, personalizações e novidades exclusivas.**
 
 
 ## Link Download
